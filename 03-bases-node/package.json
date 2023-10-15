@@ -1,0 +1,24 @@
+{
+  "name": "nodecourseudemy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app --base=3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GermanPachec0/NodeCourseUdemy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GermanPachec0/NodeCourseUdemy/issues"
+  },
+  "homepage": "https://github.com/GermanPachec0/NodeCourseUdemy#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.2"
+  }
+}
